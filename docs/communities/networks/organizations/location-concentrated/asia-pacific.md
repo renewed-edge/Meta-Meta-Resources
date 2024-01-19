@@ -42,3 +42,4 @@ sidebar_label: Asia-Pacific
 | [Singapore Neuroscience Association](http://www.neuroscience.org.sg/) |
 | [Speech Pathology Australia](https://www.speechpathologyaustralia.org.au/) |
 | [The Asian Association of Social Psychology](https://asiansocialpsych.org/) |
+| [hypnotherapy training in hong kong](https://www.renewed-edge.com/hypnosis-hypnotherapy-certification-diploma/) |
